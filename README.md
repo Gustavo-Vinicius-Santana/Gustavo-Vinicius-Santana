@@ -20,6 +20,8 @@
 👩‍💻 Atualmente eu trabalho na empresa:
 - Fabrica de Software
     - Atuando como desenvovolvedor mobile
+- Cafezinho
+    - Atuando como estagiario back-end laravel
 
 
 ### Eu já trabalhei com... 🔧
