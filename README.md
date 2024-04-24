@@ -58,8 +58,8 @@
 
 ### GitHub Stats ⚡
 <div>
-  <a href="https://github.com/gusvinicius">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusvinicius&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/gustavo-vinicius-santana">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-vinicius-santana&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
