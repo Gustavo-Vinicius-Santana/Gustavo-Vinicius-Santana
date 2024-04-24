@@ -59,8 +59,9 @@
 ### GitHub Stats ⚡
 <div>
   <a href="https://github.com/gustavo-vinicius-santana">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-vinicius-santana&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-vinicius-santana&layout=normal&langs_count=7&theme=dracula&hide=html,css,scss,blade&custom_width=600"/>
   </a>
+    
 </div>
 
 ### Entre em contato comigo! 📭
