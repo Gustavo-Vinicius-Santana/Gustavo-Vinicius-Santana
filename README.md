@@ -19,9 +19,9 @@
 
 👩‍💻 Atualmente eu trabalho na empresa:
 - Fabrica de Software
-    - Atuando como desenvovolvedor mobile
+    - Atuando como desenvovolvedor mobile react-native
 - Cafezinho
-    - Atuando como estagiario back-end laravel
+    - Atuando como estagiario usando back-end laravel e mobile android
 
 
 ### Eu já trabalhei com... 🔧
