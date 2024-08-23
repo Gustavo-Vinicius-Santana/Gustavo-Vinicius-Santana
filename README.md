@@ -3,8 +3,7 @@
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor:
-- Front-end
-- Back-end
+- web
 - Mobile
 - Full stack
 
@@ -56,6 +55,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ### GitHub Stats ⚡
