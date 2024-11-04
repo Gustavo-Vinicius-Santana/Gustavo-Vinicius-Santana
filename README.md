@@ -15,13 +15,15 @@
     - full stack
 - desenvolvimento mobile
 - banco de dados
-
-👩‍💻 Atualmente eu trabalho na empresa:
-- Fabrica de Software
-    - Atuando como desenvovolvedor mobile react-native
-- Cafezinho
+- 
+👩‍💻 Já trabalhei nas empresas:
+- [Cafezinho](https://www.linkedin.com/company/cafezinho/)
     - Atuando como estagiario usando back-end laravel e mobile android
 
+
+👩‍💻 Atualmente eu trabalho na empresa:
+- [Fabrica de Software](https://www.linkedin.com/company/f%C3%A1brica-de-software-unipe/)
+    - Atuando como desenvovolvedor mobile react-native
 
 ### Eu já trabalhei com... 🔧
 
@@ -37,6 +39,7 @@
 **Mobile**
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
 **Back-end**
 
@@ -46,16 +49,15 @@
 **Database**
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
 ### Eu estou estudando... 🧩
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### GitHub Stats ⚡
 <div>
