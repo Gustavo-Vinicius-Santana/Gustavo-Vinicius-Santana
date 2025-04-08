@@ -1,5 +1,3 @@
-# 👋 Olá, sou Gustavo Vinicius
-
 ### 👨‍💻 Sobre mim
 
 - Desenvolvedor **Full Stack**, com foco em **Web** e **Mobile**
