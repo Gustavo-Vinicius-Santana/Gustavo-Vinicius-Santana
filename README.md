@@ -15,6 +15,7 @@
 ### 💼 Minha Stack Atual
 
 **Front-end & Mobile**  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -33,9 +34,7 @@
 
 ### ⚡ GitHub Stats
 
-<a href="https://github.com/gustavo-vinicius-santana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Vinicius-Santana&layout=normal&langs_count=7&theme=dracula&hide=html,css,scss,blade&custom_width=600"/>
-</a>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavo-vinicius-santana&layout=compact&theme=radical&hide=html,css,scss,blade)
 
 ---
 
