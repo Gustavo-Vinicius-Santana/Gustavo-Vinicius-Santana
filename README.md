@@ -9,7 +9,7 @@
   Estagiário | Back-end (Laravel) & Mobile (Android)
 
 - **[Fábrica de Software - UNIPE](https://www.linkedin.com/company/f%C3%A1brica-de-software-unipe/)**  
-  Desenvolvedor Mobile | React Native
+  Desenvolvedor Front-end | React Native & React
 
 - **[YpControl](https://www.linkedin.com/company/ypcontrol/) - atual**  
 Desenvolvedor full stack | Back-end (Java | spring boot) & Front-end(Angular)
